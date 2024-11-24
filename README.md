@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python , Pandas, and SQL Projects**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **C#**
 
 - 🌱 I'm currently learning **Algorithms & Problem-Solving by using Python & C++**
 
