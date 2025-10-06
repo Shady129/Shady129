@@ -5,36 +5,75 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Python , Pandas, and SQL Projects**
-
-- 🌱 I’m currently learning **C#**
-
-- 🌱 I'm currently learning **Algorithms & Problem-Solving by using Python & C++**
-
-- 🌱 I'm currently learning **Data Structure and OOP**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shady129](https://github.com/Shady129)
-
-- 📝 I regularly learn on [https://www.udemy.com](https://www.udemy.com)
-
-- 📝 I regularly learn on [https://programmingadvices.com](https://programmingadvices.com)
-
-- 📫 How to reach me **shady.m.elsherif@hotmail.com**
-
-- 📄 Know about my experiences **https://www.linkedin.com/in/shady-mahmoud-5862b5119/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shady-mahmoud-5862b5119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shady-mahmoud-5862b5119" height="30" width="40" /></a>
+<p align="center">
+  <img src="PUT-YOUR-GIF-URL-HERE" alt="Animated Header" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 👋 Hi, I'm **Shady Mahmoud**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shady129&show_icons=true&locale=en&layout=compact" alt="shady129" /></p>
+**Backend Developer | C#, C++, SQL | Passionate about Clean Code**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shady129&show_icons=true&locale=en" alt="shady129" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shady129&" alt="shady129" /></p>
+## 🧠 About Me
 
+I’m a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
+I believe in continuous learning and applying real-world projects to strengthen my skills.
+
+---
+
+## 🎓 Courses & Learning Path
+
+I’ve successfully completed multiple comprehensive courses on **ProgrammingAdvices.com**, including:
+
+- ✅ **C++ Programming – Complete Course**  
+- ✅ **SQL Server – Practical Course**  
+- ✅ **C# Programming – Full Course**
+
+> These courses helped me build a strong foundation in OOP, data structures, algorithms, and backend logic.
+
+---
+
+## 💻 Technical Skills
+
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | C#, C++, SQL |
+| **Frameworks & Tools** | .NET, Visual Studio, SSMS |
+| **Database** | SQL Server |
+| **Concepts** | OOP, Clean Code, Data Structures, Problem Solving |
+| **Other Tools** | Git, GitHub, Windows Forms |
+
+---
+
+## 🚀 Projects
+
+### 🏦 **Bank System (C++)**
+A complete console-based banking system project built with C++.  
+**Features:** Add, update, delete accounts, and perform transactions.  
+**Focus:** Object-Oriented Programming and file handling.  
+
+### 🧩 **SQL Project (Data Management)**
+A database project developed using SQL Server.  
+**Focus:** Table design, relationships, stored procedures, and advanced queries.  
+
+> More projects will be added as I continue learning and building.
+
+---
+
+## 📈 GitHub Stats
+
+![Shady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shady129&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email:** shady.m.elsherif@hotmail.com  
+- 💼 **LinkedIn:** [shady-mahmoud](https://www.linkedin.com/in/shady-mahmoud-5862b5119/)  
+- 🧰 **GitHub:** [github.com/Shady129](https://github.com/Shady129)
+
+---
+
+⭐ *“Learning never stops — every line of code is a new lesson.”*
 
