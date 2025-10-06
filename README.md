@@ -9,71 +9,104 @@
   <img src="PUT-YOUR-GIF-URL-HERE" alt="Animated Header" width="100%" />
 </p>
 
-# 👋 Hi, I'm **Shady Mahmoud**
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Shady Mahmoud</span></h1>
 
-**Backend Developer | C#, C++, SQL | Passionate about Clean Code**
+<p align="center">
+  <b>Backend Developer | C#, C++, SQL | Passionate about Clean Code</b>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
+I'm a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
 I believe in continuous learning and applying real-world projects to strengthen my skills.
 
 ---
 
 ## 🎓 Courses & Learning Path
 
-I’ve successfully completed multiple comprehensive courses on **ProgrammingAdvices.com**, including:
+I’ve completed over **21 practical courses** on [ProgrammingAdvices.com](https://programmingadvices.com), covering:
+- **C++, C#, and SQL Server**
+- **Object-Oriented Programming, Data Structures, and Algorithms**
+- **Real-world projects** combining database design and backend logic
 
-- ✅ **C++ Programming – Complete Course**  
-- ✅ **SQL Server – Practical Course**  
-- ✅ **C# Programming – Full Course**
-
-> These courses helped me build a strong foundation in OOP, data structures, algorithms, and backend logic.
+> These courses helped me build a strong foundation for backend development using C# and SQL.
 
 ---
 
 ## 💻 Technical Skills
 
-| Category | Technologies |
-|-----------|---------------|
-| **Languages** | C#, C++, SQL |
-| **Frameworks & Tools** | .NET, Visual Studio, SSMS |
-| **Database** | SQL Server |
-| **Concepts** | OOP, Clean Code, Data Structures, Problem Solving |
-| **Other Tools** | Git, GitHub, Windows Forms |
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🏦 **Bank System (C++)**
-A complete console-based banking system project built with C++.  
-**Features:** Add, update, delete accounts, and perform transactions.  
-**Focus:** Object-Oriented Programming and file handling.  
-
-### 🧩 **SQL Project (Data Management)**
-A database project developed using SQL Server.  
-**Focus:** Table design, relationships, stored procedures, and advanced queries.  
-
-> More projects will be added as I continue learning and building.
+### 🗄️ [Vehicle Makes SQL Project](https://github.com/Shady129/Vehicle-Makes-Sql-Project-)
+A database-based project demonstrating vehicle makes and data management using SQL.  
+**Technologies:** SQL Server, Data Modeling, CRUD operations  
+**Key Features:** Create and manage vehicle make records, perform complex queries, and design relationships.
 
 ---
 
-## 📈 GitHub Stats
+### 🏦 [Bank System (C++)](https://github.com/Shady129/Bank-System-Cpp-Project)
+A console-based banking system for managing accounts.  
+**Technologies:** C++, File Handling, OOP  
+**Key Features:** Add, update, delete, and search accounts — modular and clean structure.
 
-![Shady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shady129&show_icons=true&theme=tokyonight)
+---
+
+### 🧾 Vector File Manager (C++)
+A project demonstrating the use of **C++ STL vectors** and file handling to store, read, and display data dynamically.  
+**Technologies:** C++, Vectors, File I/O  
+**Key Features:** Add new records, save to file, and display content dynamically.
+
+---
+
+### 📝 To-Do List App (C# – Windows Forms)
+A desktop task management application built with **C# and Windows Forms**.  
+**Technologies:** C#, Windows Forms, Lists, Data Binding  
+**Key Features:** Add, display, and clear tasks dynamically with real-time UI updates.
+
+---
+
+## 🏆 Achievements & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shady129&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shady129&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shady129&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Email:** shady.m.elsherif@hotmail.com  
-- 💼 **LinkedIn:** [shady-mahmoud](https://www.linkedin.com/in/shady-mahmoud-5862b5119/)  
-- 🧰 **GitHub:** [github.com/Shady129](https://github.com/Shady129)
+<p align="center">
+  <a href="mailto:shady.m.elsherif@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shady-mahmoud-5862b5119/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shady129">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ⭐ *“Learning never stops — every line of code is a new lesson.”*
-
