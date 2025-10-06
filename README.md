@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/2877459.jpg" width="100%" height="300px">
+  <img src="https://wallpaperaccess.com/full/2877459.jpg" width="100%" />
+
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Shady Mahmoud</span></h1>
@@ -12,7 +13,8 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 I'm a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
 I believe in continuous learning and applying real-world projects to strengthen my skills.
