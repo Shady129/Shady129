@@ -21,7 +21,7 @@ I believe in continuous learning and applying real-world projects to strengthen 
 
 </td>
 <td width="40%" align="right">
-  <img src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev.gif" width="380" alt="Coding" style="border:none; box-shadow:none;">
+  <img src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif" width="380" alt="Coding" style="border:none; box-shadow:none;">
 </td>
 </tr>
 </table>
