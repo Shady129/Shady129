@@ -77,6 +77,13 @@ A desktop task management application built with **C# and Windows Forms**.
 
 ---
 
+🍽️ NoonFoodDB SQL Analytics (SQL Server)
+An end-to-end SQL analytics project exploring customer behavior, restaurant performance, and promo code efficiency.
+Technologies: SQL Server, CTEs, Window Functions, Data Analysis
+Key Features: 15 analytical queries covering customer insights, growth trends, and organic acquisition percentage.
+
+---
+
 ## 🏆 Achievements & Stats
 
 <p align="center">
