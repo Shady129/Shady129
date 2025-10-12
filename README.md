@@ -15,7 +15,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; flex-direction: row-reverse;">
 
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img alt="Coding" width="380" src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev.gif" style="border:none; box-shadow:none;"/>
+    <img alt="Coding" width="380" src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif" style="border:none; box-shadow:none;"/>
   </div>
 
   <div style="flex: 1;">
