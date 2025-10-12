@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://wallpaperaccess.com/full/2877459.jpg" width="100%" />
-
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Shady Mahmoud</span></h1>
@@ -13,13 +12,11 @@
 
 ## 🧠 About Me
 
-<br clear="right"/>
+<p style="clear:both;"></p>
 
 <img align="right" alt="Coding" width="380"
      style="border:none; box-shadow:none; margin-left:20px; margin-top:10px; float:right;"
-     src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev.gif">
-
-
+     src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif">
 
 I'm a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
 I believe in continuous learning and applying real-world projects to strengthen my skills.
@@ -87,7 +84,6 @@ An end-to-end SQL analytics project exploring customer behavior, restaurant perf
 **Technologies:** SQL Server, CTEs, Window Functions, Data Analysis  
 **Key Features:** 15 analytical queries covering customer insights, growth trends, and organic acquisition percentage.
 
-
 ---
 
 ## 🏆 Achievements & Stats
@@ -119,4 +115,6 @@ An end-to-end SQL analytics project exploring customer behavior, restaurant perf
 
 ---
 
-⭐ *“Learning never stops — every line of code is a new lesson.”*
+<p align="center">
+  ⭐ <b>“Learning never stops — every line of code is a new lesson.”</b> ⭐
+</p>
