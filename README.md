@@ -12,14 +12,21 @@
 
 ## 🧠 About Me
 
-<p style="clear:both;"></p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<img align="right" alt="Coding" width="380"
-     style="border:none; box-shadow:none; margin-left:20px; margin-top:10px; float:right;"
-     src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif">
-
+  <div style="flex: 1; padding-right: 20px;">
+    
 I'm a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
 I believe in continuous learning and applying real-world projects to strengthen my skills.
+
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img alt="Coding" width="380" src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif" style="border:none; box-shadow:none;"/>
+  </div>
+
+</div>
+
 
 ---
 
