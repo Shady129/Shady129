@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/python.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif">
 
 
 I'm a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
