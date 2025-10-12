@@ -13,7 +13,12 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="380" style="border:none; box-shadow:none; margin-left:20px; margin-top:10px;" src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif">
+<br clear="right"/>
+
+<img align="right" alt="Coding" width="380"
+     style="border:none; box-shadow:none; margin-left:20px; margin-top:10px; float:right;"
+     src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev.gif">
+
 
 
 I'm a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
