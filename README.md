@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5yXhV6J.png" width="100%" alt="Shady Mahmoud | Backend Developer Banner" />
+  <img src="https://wallpaperaccess.com/full/2877459.jpg" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Shady Mahmoud</span></h1>
@@ -21,10 +21,21 @@ I believe in continuous learning and applying real-world projects to strengthen 
 
 </td>
 <td width="40%" align="right">
-  <img src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev.gif" width="380" alt="Coding" style="border:none; box-shadow:none;">
+  <img src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif" width="380" alt="Coding" style="border:none; box-shadow:none;">
 </td>
 </tr>
 </table>
+
+---
+
+## 🎓 Courses & Learning Path
+
+I’ve completed over **21 practical courses** on [ProgrammingAdvices.com](https://programmingadvices.com), covering:
+- **C++, C#, and SQL Server**
+- **Object-Oriented Programming, Data Structures, and Algorithms**
+- **Real-world projects** combining database design and backend logic
+
+> These courses helped me build a strong foundation for backend development using C# and SQL.
 
 ---
 
@@ -46,82 +57,25 @@ I believe in continuous learning and applying real-world projects to strengthen 
 ## 🚀 Projects
 
 ### 🏨 Hotel Booking System (C++)
-A console-based hotel management system that allows adding, viewing, updating, searching, and deleting bookings.  
+A console-based hotel management project for handling room bookings.  
 **Technologies:** C++, File Handling, OOP, STL  
-**Key Features:** File-based data persistence, dynamic records, and interactive console UI.  
-📂 [View Project](https://github.com/Shady129/Hotel_Booking_System)
+**Key Features:** Add, view, update, search, and delete bookings with file persistence.
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/743/743131.png" width="25"/> Vehicle Makes SQL Project (SQL Server)
-A database project demonstrating vehicle makes and data management using SQL Server.  
+### 🗄️ Vehicle Makes SQL Project (SQL Server)
+A database project demonstrating vehicle makes and data management using SQL.  
 **Technologies:** SQL Server, Data Modeling, CRUD operations  
-**Key Features:** Create and manage vehicle make records, perform analytical queries, and define relationships.  
-📂 [View Project](https://github.com/Shady129/Vehicle_Makes_SQL_Project)
+**Key Features:** Create and manage vehicle make records, perform complex queries, and design relationships.
 
 ---
 
 ### 🏦 Bank System (C++)
-A console-based banking system for managing accounts efficiently.  
+A console-based banking system for managing accounts.  
 **Technologies:** C++, File Handling, OOP  
-**Key Features:** Add, update, delete, and search accounts — modular design with persistent storage.  
-📂 [View Project](https://github.com/Shady129/Bank_System)
+**Key Features:** Add, update, delete, and search accounts — modular and clean structure.
 
 ---
 
 ### 🧾 Vector File Manager (C++)
-A project demonstrating the use of C++ STL vectors and file handling to store, read, and display data dynamically.  
-**Technologies:** C++, Vectors, File I/O  
-**Key Features:** Add new records, save to file, and display content dynamically.  
-📂 [View Project](https://github.com/Shady129/Vector_File_Manager)
-
----
-
-### 📝 To-Do List App (C# – Windows Forms)
-A desktop task management application built with C# and Windows Forms.  
-**Technologies:** C#, Windows Forms, Lists, Data Binding  
-**Key Features:** Add, display, and clear tasks dynamically with real-time UI updates.  
-📂 [View Project](https://github.com/Shady129/TodoList_App)
-
----
-
-### 🍽️ NoonFoodDB SQL Analytics (SQL Server)
-An end-to-end SQL analytics project exploring customer behavior, restaurant performance, and promo code efficiency.  
-**Technologies:** SQL Server, CTEs, Window Functions, Data Analysis  
-**Key Features:** 15 analytical queries covering customer insights, growth trends, and organic acquisition metrics.  
-📂 [View Project](https://github.com/Shady129/NoonFoodDB_SQL_Analytics)
-
----
-
-## 🏆 Achievements & Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shady129&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shady129&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shady129&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:shady.m.elsherif@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shady-mahmoud-5862b5119/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shady129">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ <b>“Learning never stops — every line of code is a new lesson.”</b> ⭐
-</p>
+A project demonstrating the use of C++
