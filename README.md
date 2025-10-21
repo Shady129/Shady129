@@ -59,14 +59,21 @@ I’ve completed over **21 practical courses** on [ProgrammingAdvices.com](https
 
 ## 🚀 Projects
 
-### 🗄️ [Vehicle Makes SQL Project](https://github.com/Shady129/Vehicle-Makes-Sql-Project-)
-A database-based project demonstrating vehicle makes and data management using SQL.  
+### 🏨 Hotel Booking System (C++)
+A console-based hotel management project for handling room bookings.  
+**Technologies:** C++, File Handling, OOP, STL  
+**Key Features:** Add, view, update, search, and delete bookings with file persistence.
+
+---
+
+### 🗄️ Vehicle Makes SQL Project
+A database project demonstrating vehicle makes and data management using SQL.  
 **Technologies:** SQL Server, Data Modeling, CRUD operations  
 **Key Features:** Create and manage vehicle make records, perform complex queries, and design relationships.
 
 ---
 
-### 🏦 [Bank System (C++)](https://github.com/Shady129/Bank-System-Cpp-Project)
+### 🏦 Bank System (C++)
 A console-based banking system for managing accounts.  
 **Technologies:** C++, File Handling, OOP  
 **Key Features:** Add, update, delete, and search accounts — modular and clean structure.
@@ -74,25 +81,26 @@ A console-based banking system for managing accounts.
 ---
 
 ### 🧾 Vector File Manager (C++)
-A project demonstrating the use of **C++ STL vectors** and file handling to store, read, and display data dynamically.  
+A project demonstrating the use of C++ STL vectors and file handling to store, read, and display data dynamically.  
 **Technologies:** C++, Vectors, File I/O  
 **Key Features:** Add new records, save to file, and display content dynamically.
 
 ---
 
 ### 📝 To-Do List App (C# – Windows Forms)
-A desktop task management application built with **C# and Windows Forms**.  
+A desktop task management application built with C# and Windows Forms.  
 **Technologies:** C#, Windows Forms, Lists, Data Binding  
 **Key Features:** Add, display, and clear tasks dynamically with real-time UI updates.
 
 ---
 
-### 🍽️ [NoonFoodDB SQL Analytics (SQL Server)](https://github.com/Shady129/NoonFoodDB-SQL-Analytics)
+### 🍽️ NoonFoodDB SQL Analytics (SQL Server)
 An end-to-end SQL analytics project exploring customer behavior, restaurant performance, and promo code efficiency.  
 **Technologies:** SQL Server, CTEs, Window Functions, Data Analysis  
 **Key Features:** 15 analytical queries covering customer insights, growth trends, and organic acquisition percentage.
 
 ---
+
 
 ## 🏆 Achievements & Stats
 
