@@ -66,7 +66,7 @@ A console-based hotel management project for handling room bookings.
 
 ---
 
-### 🗄️ Vehicle Makes SQL Project
+### 🗄️ Vehicle Makes SQL Project (SQL Server)
 A database project demonstrating vehicle makes and data management using SQL.  
 **Technologies:** SQL Server, Data Modeling, CRUD operations  
 **Key Features:** Create and manage vehicle make records, perform complex queries, and design relationships.
