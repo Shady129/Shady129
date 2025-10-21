@@ -63,7 +63,7 @@ A console-based hotel management project for handling room bookings.
 
 ---
 
-### 🗄️ Vehicle Makes SQL Project (SQL Server)
+### 🚛 Vehicle Makes SQL Project (SQL Server)
 A database project demonstrating vehicle makes and data management using SQL.  
 **Technologies:** SQL Server, Data Modeling, CRUD operations  
 **Key Features:** Create and manage vehicle make records, perform complex queries, and design relationships.
@@ -78,4 +78,10 @@ A console-based banking system for managing accounts.
 ---
 
 ### 🧾 Vector File Manager (C++)
-A project demonstrating the use of C++
+A project demonstrating the use of C++ STL vectors and file handling to store, read, and display data dynamically.  
+**Technologies:** C++, Vectors, File I/O  
+**Key Features:** Add new records, save to file, and display content dynamically.
+
+---
+
+### 📝
