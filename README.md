@@ -76,6 +76,22 @@ A console-based banking system for managing accounts.
 **Key Features:** Add, update, delete, and search accounts — modular and clean structure.
 
 ---
+### 🏧 ATM System (C++)
+A console-based ATM application simulating real-world banking operations using C++.
+
+**Technologies:**  
+C++, STL, File Handling, Structured Programming
+
+**Key Features:**  
+- Secure login system with limited attempts  
+- Quick and normal withdrawals  
+- Deposit and balance inquiry  
+- Persistent data storage using text files  
+- Clean, structured, and maintainable code design  
+🔗 **Repository:**  
+https://github.com/Shady129/ATM-System-Cpp
+
+---
 
 ### 🧾 Vector File Manager (C++)
 A project demonstrating the use of C++ STL vectors and file handling to store, read, and display data dynamically.  
