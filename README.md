@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Shady Mahmoud</span></h1>
 
 <p align="center">
-  <b>Backend Developer | C#, C++, SQL | Passionate about Clean Code</b>
+  <b><b>Backend Developer | Building Database Systems with C# & SQL Server</b></b>
 </p>
 
 ---
