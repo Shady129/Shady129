@@ -2,102 +2,200 @@
   <img src="https://wallpaperaccess.com/full/2877459.jpg" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Shady Mahmoud</span></h1>
+<h1 align="center">Hi 👋, I'm Shady Mahmoud</h1>
+
+<h3 align="center">
+.NET Backend Developer | C# • ASP.NET Core • REST APIs • EF Core • SQL Server
+</h3>
 
 <p align="center">
-  <b><b>Backend Developer | Building Database Systems with C# & SQL Server</b></b>
+Building backend systems with a focus on clean architecture, secure APIs, database integration, and practical problem solving.
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm a **.NET Backend Developer** focused on building practical backend applications using **C#, ASP.NET Core, Entity Framework Core, and SQL Server**.
 
-I'm a dedicated backend developer who enjoys solving problems and writing clean, efficient, and maintainable code.  
-I believe in continuous learning and applying real-world projects to strengthen my skills.
+My learning approach is project-driven: I build complete systems to understand how application layers, APIs, databases, authentication, authorization, validation, and business logic work together.
 
-</td>
-<td width="40%" align="right">
-  <img src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif" width="380" alt="Coding" style="border:none; box-shadow:none;">
-</td>
-</tr>
-</table>
+My recent work focuses on **REST APIs, backend architecture, API security, database-driven applications, and layered system design**.
+
+I continuously strengthen my fundamentals through **OOP, Data Structures, Algorithms, SQL, and problem solving**.
 
 ---
 
-## 🎓 Courses & Learning Path
-
-I’ve completed over **21 practical courses** on [ProgrammingAdvices.com](https://programmingadvices.com), covering:
-- **C++, C#, and SQL Server**
-- **Object-Oriented Programming, Data Structures, and Algorithms**
-- **Real-world projects** combining database design and backend logic
-
-> These courses helped me build a strong foundation for backend development using C# and SQL.
-
----
-
-## 💻 Technical Skills
+## 🛠️ Backend Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🏨 Hotel Booking System (C++)
-A console-based hotel management project for handling room bookings.  
-**Technologies:** C++, File Handling, OOP, STL  
-**Key Features:** Add, view, update, search, and delete bookings with file persistence.
+### 🎫 NetWave Support API
 
----
+A secure **IT Support Ticket Management REST API** built with ASP.NET Core, Entity Framework Core, and SQL Server.
 
-### 🚛 Vehicle Makes SQL Project (SQL Server)
-A database project demonstrating vehicle makes and data management using SQL.  
-**Technologies:** SQL Server, Data Modeling, CRUD operations  
-**Key Features:** Create and manage vehicle make records, perform complex queries, and design relationships.
+**Highlights**
+
+`ASP.NET Core` • `EF Core` • `SQL Server` • `JWT Authentication` • `Refresh Tokens` • `BCrypt` • `Role-Based Authorization` • `Ownership Protection` • `Rate Limiting` • `Validation` • `Security Logging`
+
+🔗 [View Repository](https://github.com/Shady129/NetWaveSupportAPI)
 
 ---
 
-### 🏦 Bank System (C++)
-A console-based banking system for managing accounts.  
-**Technologies:** C++, File Handling, OOP  
-**Key Features:** Add, update, delete, and search accounts — modular and clean structure.
+### 🏥 Hospital Management API
 
----
-### 🏧 ATM System (C++)
-A console-based ATM application simulating real-world banking operations using C++.
+A RESTful backend API designed around a layered architecture for managing core hospital operations.
 
-**Technologies:**  
-C++, STL, File Handling, Structured Programming
+**Highlights**
 
-**Key Features:**  
-- Secure login system with limited attempts  
-- Quick and normal withdrawals  
-- Deposit and balance inquiry  
-- Persistent data storage using text files  
-- Clean, structured, and maintainable code design  
-🔗 **Repository:**  
-https://github.com/Shady129/ATM-System-Cpp
+`ASP.NET Core` • `Entity Framework Core` • `SQL Server` • `Repository Pattern` • `Service Layer` • `DTOs` • `CRUD`
+
+🔗 [View Repository](https://github.com/Shady129/Hospital-Management-API)
 
 ---
 
-### 🧾 Vector File Manager (C++)
-A project demonstrating the use of C++ STL vectors and file handling to store, read, and display data dynamically.  
-**Technologies:** C++, Vectors, File I/O  
-**Key Features:** Add new records, save to file, and display content dynamically.
+### 🎓 Training Center Management System
+
+A database-driven C# application built to manage training-center operations using Entity Framework Core and a structured multi-layer design.
+
+**Highlights**
+
+`C#` • `Entity Framework Core` • `SQL Server` • `3-Tier Architecture` • `Business Logic` • `Data Access`
+
+🔗 [View Repository](https://github.com/Shady129/Training-Center-Management-System)
 
 ---
 
+### 📇 Contacts Management System
 
+A C# contacts management application demonstrating direct database access and separation of responsibilities through 3-Tier Architecture.
+
+**Highlights**
+
+`C#` • `ADO.NET` • `SQL Server` • `3-Tier Architecture` • `CRUD` • `Data Access Layer`
+
+🔗 [View Repository](https://github.com/Shady129/Contacts-Management-System)
+
+---
+
+### 🚗 Car Rental System
+
+A C# console application structured using 3-Tier Architecture to separate presentation, business logic, and data access responsibilities.
+
+**Highlights**
+
+`C#` • `SQL Server` • `3-Tier Architecture` • `Business Logic Layer` • `Data Access Layer`
+
+🔗 [View Repository](https://github.com/Shady129/CarRentalSystem-3Tier-ConsoleApp)
+
+---
+
+### 🗄️ Vehicle Makes SQL Project
+
+A SQL Server project focused on querying and analyzing vehicle manufacturing data while practicing relational database concepts.
+
+**Highlights**
+
+`SQL Server` • `Joins` • `Aggregations` • `Subqueries` • `Relational Queries`
+
+🔗 [View Repository](https://github.com/Shady129/Vehicle-Makes-Sql-Project-)
+
+---
+
+## 🔐 What I'm Currently Building
+
+My current backend work focuses on moving beyond basic CRUD and understanding how production-style API components work together:
+
+```text
+Client
+   ↓
+REST API
+   ↓
+Authentication
+   ↓
+Authorization
+   ↓
+Validation
+   ↓
+Business Logic
+   ↓
+Entity Framework Core
+   ↓
+SQL Server
+   ↓
+HTTP Response
+```
+
+Areas I'm actively practicing:
+
+- Secure REST API development
+- JWT authentication and authorization
+- Refresh-token workflows
+- Role and ownership-based access control
+- Entity Framework Core
+- Layered backend architecture
+- SQL Server
+- API validation and HTTP status codes
+- Rate limiting and security logging
+
+---
+
+## 🧠 Foundations
+
+Alongside .NET backend development, I continue strengthening the fundamentals behind the code:
+
+`OOP` • `Data Structures` • `Algorithms` • `Problem Solving` • `Database Design` • `SQL` • `C++`
+
+---
+
+## 🎓 Learning Journey
+
+I have completed **21+ practical programming courses** through ProgrammingAdvices, covering:
+
+- C++ and programming fundamentals
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- C# and .NET
+- SQL Server and database design
+- REST API development
+- Practical software projects
+
+My focus is not only learning syntax, but understanding **how and why backend components work together**.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shady-mahmoud-5862b5119/">
+  <img src="https://img.shields.io/badge/LinkedIn-Shady_Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Shady129">
+  <img src="https://img.shields.io/badge/GitHub-Shady129-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Building. Learning. Improving. One backend project at a time.</b>
+</p>
