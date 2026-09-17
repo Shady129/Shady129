@@ -1,28 +1,30 @@
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/2877459.jpg" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Shady Mahmoud</h1>
-
-<h3 align="center">
-.NET Backend Developer | C# • ASP.NET Core • REST APIs • EF Core • SQL Server
-</h3>
-
-<p align="center">
-Building backend systems with a focus on clean architecture, secure APIs, database integration, and practical problem solving.
-</p>
-
----
-
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="62%" valign="top">
 
 I'm a **.NET Backend Developer** focused on building practical backend applications using **C#, ASP.NET Core, Entity Framework Core, and SQL Server**.
 
-My learning approach is project-driven: I build complete systems to understand how application layers, APIs, databases, authentication, authorization, validation, and business logic work together.
+My learning approach is project-driven: I build complete systems to understand how **APIs, databases, authentication, authorization, validation, and business logic** work together.
 
 My recent work focuses on **REST APIs, backend architecture, API security, database-driven applications, and layered system design**.
 
 I continuously strengthen my fundamentals through **OOP, Data Structures, Algorithms, SQL, and problem solving**.
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Shady129/Shady129/main/assets/Dev..gif"
+     width="330"
+     alt="Backend Developer Coding">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
